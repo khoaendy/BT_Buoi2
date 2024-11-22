@@ -1,0 +1,14 @@
+C:\Users\khoae\source\repos\On2\On2\bin\Debug\On2.exe.config
+C:\Users\khoae\source\repos\On2\On2\bin\Debug\On2.exe
+C:\Users\khoae\source\repos\On2\On2\bin\Debug\On2.pdb
+C:\Users\khoae\source\repos\On2\On2\obj\Debug\On2.csproj.AssemblyReference.cache
+C:\Users\khoae\source\repos\On2\On2\obj\Debug\On2.csproj.CoreCompileInputs.cache
+C:\Users\khoae\source\repos\On2\On2\obj\Debug\On2.exe
+C:\Users\khoae\source\repos\On2\On2\obj\Debug\On2.pdb
+C:\Users\khoae\Downloads\2280601505_Lê Đỗ Đăng Khoa\On2\bin\Debug\On2.exe.config
+C:\Users\khoae\Downloads\2280601505_Lê Đỗ Đăng Khoa\On2\bin\Debug\On2.exe
+C:\Users\khoae\Downloads\2280601505_Lê Đỗ Đăng Khoa\On2\bin\Debug\On2.pdb
+C:\Users\khoae\Downloads\2280601505_Lê Đỗ Đăng Khoa\On2\obj\Debug\On2.csproj.AssemblyReference.cache
+C:\Users\khoae\Downloads\2280601505_Lê Đỗ Đăng Khoa\On2\obj\Debug\On2.csproj.CoreCompileInputs.cache
+C:\Users\khoae\Downloads\2280601505_Lê Đỗ Đăng Khoa\On2\obj\Debug\On2.exe
+C:\Users\khoae\Downloads\2280601505_Lê Đỗ Đăng Khoa\On2\obj\Debug\On2.pdb
